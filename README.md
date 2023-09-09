@@ -36,4 +36,8 @@ Thank you for joining us on this journey through the Linux world. We hope this p
 
 Happy Computing!
 Here are some of the Screenshots:
+
 ![image](https://github.com/sagarydv002/Summer-Project-2023/assets/81519125/7450c601-1143-4570-a062-15a9b83d5ead)
+
+
+![image](https://github.com/sagarydv002/Summer-Project-2023/assets/81519125/eaf40f0c-85f6-4d44-a55c-6032a5a97ead)
