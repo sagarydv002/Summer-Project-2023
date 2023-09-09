@@ -35,3 +35,5 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 Thank you for joining us on this journey through the Linux world. We hope this project enhances your Linux experience and empowers you to explore the vast possibilities of open-source technologies. Enjoy your Linux adventure!
 
 Happy Computing!
+Here are some of the Screenshots:
+![image](https://github.com/sagarydv002/Summer-Project-2023/assets/81519125/7450c601-1143-4570-a062-15a9b83d5ead)
